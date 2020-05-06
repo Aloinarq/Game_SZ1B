@@ -1,2 +1,2 @@
 # Game_SZ1B
-Horvath Levente Game
+Horvath Levente's Game
